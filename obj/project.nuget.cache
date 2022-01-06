@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+VLKnMhcQwNQQ8Oa8wmnYqIBYRzSWPZbQVnVEdz88ke2Ik+h7L8M7nbaLnpxN+Vbll32S4VsWOjZ6EB2pvjKQ==",
+  "success": true,
+  "projectFilePath": "/Users/DELL/Documents/VS Code folders/F#/Chord_P3/Chord_P3.fsproj",
+  "expectedPackageFiles": [
+    "/Users/DELL/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
